@@ -204,7 +204,7 @@ void resetare()
 
 int main()
 {
-	cout << "        FLAPPY BIRDS"<<endl;
+	cout << "        FLAPPY BIRDS!"<<endl;
 	joc = 1;
 	srand((unsigned int) time(NULL));
 	while (joc==1)
